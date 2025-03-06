@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tayc
 - 👀 I’m interested in embeded hardware, neural networks, 3D printing, autonomous vechiles, video games, and cat memes. 
 - 🌱 I’m currently learning python and C
-- 💞️ I’m looking to collaborate on my current projects
 - 📫 How to reach me: write a messsage, put it in a bottle, throw it in the ocean, and then hope.
 
 <!---
